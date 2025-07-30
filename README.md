@@ -52,6 +52,6 @@
 
 <p align="center">
   <a href="mailto:igorslobodan05@gmail.com"><img src="https://img.shields.io/badge/email-igorslobodan05@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/griff1th"><img src="https://img.shields.io/badge/Telegram-@griff1th-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/griff1th"><img src="https://img.shields.io/badge/Telegram-@WhoreInTheShell-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
